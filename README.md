@@ -3,11 +3,17 @@
 ## Activity
 • 🔭 Currently working on a FinTech application.
 
+
 • 🌱 I’m into **MEAN stack** development and also mastering the **Linux GUI and CLI**.
+
 
 • 💬 Feel free to ask me about development with the **MEAN stack** and **Ionic framework**.
 
+
 • 📫 How to reach me: [onotaizee@gmail.com](mailto:onotaizee@gmail.com "DreadedHippy's Email")
+
+
+• 🤖 *Machine learning is the future*
 
 
 

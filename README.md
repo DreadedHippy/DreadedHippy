@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello there! I'm DreadedHippy 👋
+
+## Activity
+⋅⋅* 🔭 Currently working on a fintech application.
+
+..* 🌱 I’m currently into MEAN stack development and also delving into the Linux GUI and CLI
+
+..* 💬 Feel free to ask me about development with the MEAN stack and ionic framework.
+
+..* 📫 How to reach me: [onotaizee@gmail.com](mailto:onotaizee@gmail.com "DreadedHippy's Email")
+
 
 <!--
 **DreadedHippy/DreadedHippy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

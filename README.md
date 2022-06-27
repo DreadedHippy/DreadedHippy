@@ -1,13 +1,14 @@
 # Hello there! I'm DreadedHippy 👋
 
 ## Activity
-⋅⋅* 🔭 Currently working on a fintech application.
+• 🔭 Currently working on a FinTech application.
 
-..* 🌱 I’m currently into MEAN stack development and also delving into the Linux GUI and CLI
+• 🌱 I’m into **MEAN stack** development and also mastering the **Linux GUI and CLI**.
 
-..* 💬 Feel free to ask me about development with the MEAN stack and ionic framework.
+• 💬 Feel free to ask me about development with the **MEAN stack** and **Ionic framework**.
 
-..* 📫 How to reach me: [onotaizee@gmail.com](mailto:onotaizee@gmail.com "DreadedHippy's Email")
+• 📫 How to reach me: [onotaizee@gmail.com](mailto:onotaizee@gmail.com "DreadedHippy's Email")
+
 
 
 <!--

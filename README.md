@@ -1,5 +1,9 @@
 # Hello there! I'm DreadedHippy 👋
 
+<p align="center">
+  <img src="https://github.com/DreadedHippy/DreadedHippy/blob/main/Files/Screenshot%20from%202022-06-27%2009-35-55.png" title="hover text">
+</p>
+
 ## Activity
 • 🔭 Currently working on a FinTech application.
 
@@ -23,6 +27,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
+![alt text](https://github.com/DreadedHippy/DreadedHippy/blob/main/Files/Sky.jpg)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

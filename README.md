@@ -1,7 +1,7 @@
 # Hello there! I'm DreadedHippy 👋
 
 <p align="center">
-  <img src="https://github.com/DreadedHippy/DreadedHippy/blob/main/Files/Screenshot%20from%202022-06-27%2009-35-55.png" title="hover text">
+  <img src="https://github.com/DreadedHippy/DreadedHippy/blob/main/Files/Screenshot%20from%202022-06-27%2009-35-55.png" title="Backdrop">
 </p>
 
 ## Activity
@@ -18,6 +18,8 @@
 
 
 • 🤖 *Machine learning is the future*
+
+• 🥚 Member of the Coop community.
 
 
 

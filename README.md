@@ -5,22 +5,15 @@
 </p>
 
 ## Activity
-• 🔭 Currently working on a FinTech application.
+- 🔭 Currently working on a FinTech application.
+- 🌱 I’m into **MEAN stack** development and also mastering the **Linux GUI and CLI**.
+- 💬 Feel free to ask me about development with the **MEAN stack** and **Ionic framework**.
+- 📫 How to reach me: [onotaizee@gmail.com](mailto:onotaizee@gmail.com "DreadedHippy's Email")
+- 🤖 *Machine learning is the future*
+- 🥚 Member of the Coop community.
 
-
-• 🌱 I’m into **MEAN stack** development and also mastering the **Linux GUI and CLI**.
-
-
-• 💬 Feel free to ask me about development with the **MEAN stack** and **Ionic framework**.
-
-
-• 📫 How to reach me: [onotaizee@gmail.com](mailto:onotaizee@gmail.com "DreadedHippy's Email")
-
-
-• 🤖 *Machine learning is the future*
-
-• 🥚 Member of the Coop community.
-
+**Twitter: [@HippyDreaded](https://twitter.com/HippyDreaded)**
+**LinkedIn: [Onotieose Izormen](https://www.linkedin.com/in/onotieose-izormen-b2a18423b/)**
 
 
 <!--
@@ -41,5 +34,5 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DreadedHippy&show_icons=true&theme=gruvbox)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tee-Stark&theme=gruvboxt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreadedHippy&theme=gruvbox)

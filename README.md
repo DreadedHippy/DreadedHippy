@@ -4,11 +4,12 @@
   <img src="https://github.com/DreadedHippy/DreadedHippy/blob/main/Files/Screenshot%20from%202022-06-27%2009-35-55.png" title="Backdrop">
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+web+developer;Tech+enthusiast)](https://git.io/typing-svg)
+
 ## Activity
 - 🔭 Currently working on a FinTech application.
 - 🌱 I’m into **MEAN stack** development and also mastering the **Linux GUI and CLI**.
-- 💬 Feel free to ask me about development with the **MEAN stack** and **Ionic framework**.
-- 📫 How to reach me: [onotaizee@gmail.com](mailto:onotaizee@gmail.com "DreadedHippy's Email")
+<!-- - 💬 Feel free to ask me about development with the **MEAN stack** and **Ionic framework**. -->
 - 🤖 *Machine learning is the future*
 - 🥚 Member of the Coop community.
 

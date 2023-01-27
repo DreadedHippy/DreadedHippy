@@ -5,7 +5,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=100&size=28&pause=1000&color=C86D16&center=true&vCenter=true&width=1000&lines=Full-stack+web+developer;A.I.+and+Cyber-security+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oxanium&weight=100&size=28&pause=1000&color=C86D16&center=true&vCenter=true&width=1000&lines=Full-stack+web+developer;A.I.+and+Cyber-security+Enthusiast)](https://git.io/typing-svg)
 
 
 

@@ -12,7 +12,7 @@
 ## Activity
 
 - 🔭 Currently working on a FinTech application.
-- 🌱 I’m into **MEAN stack** development and also mastering the **Linux GUI and CLI**.
+- 🌱 I’m into **FullStack** development and also mastering the **Linux GUI and CLI**.
 <!-- - 💬 Feel free to ask me about development with the **MEAN stack** and **Ionic framework**. -->
 - 🤖 *Machine learning is the future*
 - 🥚 Member of the Coop community.

@@ -11,7 +11,7 @@
 
 ## Activity
 
-- 🔭 Currently working on a FinTech application.
+- 🔭 Currently working on a FinTech application and a Shopify-like clone.
 - 🌱 I’m into **FullStack** development and also mastering the **Linux GUI and CLI**.
 <!-- - 💬 Feel free to ask me about development with the **MEAN stack** and **Ionic framework**. -->
 - 🤖 *Machine learning is the future*

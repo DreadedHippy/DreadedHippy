@@ -1,4 +1,5 @@
-# Hello there! I'm DreadedHippy 👋 A.K.A Aizon
+# Hello there! I'm DreadedHippy 👋
+...*A.K.A Aizon*
 
 
 <p align="center">
@@ -10,15 +11,13 @@
 
 
 
-I love automating everyday repetitive tasks and delving into new technologies, I also really enjoy researching history whenever I have the time 🔍> The only other things I love almost as much as I love programming are Jazz and Anime. Feel free to DM me on any of my socials
+I love automating repetitive tasks and delving into new technologies, I also really enjoy researching history whenever I have the time 🔍. The only other things I love almost as much as I love programming are Jazz and Anime. Feel free to DM me on any of my socials
 
 ## Activity
-
-- 🔭 Currently working on a FinTech application and a Shopify-like clone.
-- 🌱 I’m into **FullStack** development and also mastering the **Linux GUI and CLI**.
-<!-- - 💬 Feel free to ask me about development with the **MEAN stack** and **Ionic framework**. -->
-- 🤖 *Machine learning is the future*
-- 🥚 Member of the Coop community.
+<p>🟠🔭 Currently working on a FinTech application and a Shopify-like clone. </p>
+<p>🟠 🌱 I’m into **FullStack** development and also mastering the **Linux GUI and CLI**.</p>
+<p>🟠 🤖 *Machine learning is the future*</p>
+<p>🟠 🥚 Member of the Coop community.<p>
 
 **Twitter: [@HippyDreaded](https://twitter.com/HippyDreaded)**
 **LinkedIn: [Onotieose Izormen](https://www.linkedin.com/in/onotieose-izormen-b2a18423b/)**
@@ -28,17 +27,6 @@ I love automating everyday repetitive tasks and delving into new technologies, I
 **DreadedHippy/DreadedHippy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-![alt text](https://github.com/DreadedHippy/DreadedHippy/blob/main/Files/Sky.jpg)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DreadedHippy&show_icons=true&theme=gruvbox)

@@ -38,7 +38,7 @@
       </p>
     </td>
     <td valign="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=DreadedHippy&show_icons=true&theme=gruvbox&show_icons=true&title_color=ff9548"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=DreadedHippy&show_icons=true&theme=vision-friendly-dark&show_icons=true&title_color=ff9548&count_private=true"/>
     </td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@
       <p>🥚 Member of the Coop community.</p>
     </td>
     <td valign="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=DreadedHippy&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=DreadedHippy&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
     </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@
       <h4 align="center">✨Check out my website at https://aizon.netlify.app ✨</h4>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreadedHippy&theme=gruvbox" alt="DreadedHippy's most used languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreadedHippy&theme=vision-friendly-dark" alt="DreadedHippy's most used languages"/>
     </td>
   </tr>
 </table>

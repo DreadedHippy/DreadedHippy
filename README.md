@@ -27,17 +27,14 @@
   I love automating repetitive tasks and delving into new technologies, I also really enjoy researching history whenever I have the time 🔍. The only other things I love almost as much as I love programming are Jazz and Anime. Feel free to DM me on any of my socials
 </p>
 
-<table>
-  <tr>
-    <td valign="center">
+
       <h2>Tools I use<h2>
-      <p>
+      <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=angular,flutter,sass,mongodb,js,nodejs,graphql,express,ts,vscode,git,nuxtjs,redis,reactivex,docker&perline=7" />
         </a>
       </p>
-    </td>
-  </tr>
+<table>
   <tr>
     <td valign="center">
       <h2>Activity</h2>

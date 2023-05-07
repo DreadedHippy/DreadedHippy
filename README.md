@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://twitter.com/HippyDreaded"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HippyDreaded?style=for-the-badge&color=ff9548&labelColor=black&logo=twitter&label=@HippyDreaded"></a>
   <br>
-  <a href="https://visitor-badge.glitch.me/badge?page_id=DreadedHippy.DreadedHippy"> <img alt="DreadedHippy profile views" src="https://visitor-badge.glitch.me/badge?page_id=DreadedHippy.DreadedHippy"></a>
+  <a href="https://komarev.com/ghpvc/?username=DreadedHippy&color=ff9548&style=for-the-badge"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=DreadedHippy&color=ff9548&style=for-the-badge"></a>
 </p>
 
 <p align="center">

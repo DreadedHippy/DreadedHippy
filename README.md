@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/onotieose-izormen/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/HippyDreaded"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://medium.com/@onotaizee"><img height="30" src="https://github.com/DreadedHippy/DreadedHippy/blob/main/Files/medum%20logo.png"></a>&nbsp;&nbsp;
-  <a href="https://usepayday.me/izormenonotieose9903"><img height="30" src="https://github.com/DreadedHippy/DreadedHippy/blob/main/Files/payday-logo.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://usepayday.me/aizon"><img height="30" src="https://github.com/DreadedHippy/DreadedHippy/blob/main/Files/payday-logo.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 

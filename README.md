@@ -27,30 +27,23 @@
   I love automating repetitive tasks and delving into new technologies, I also really enjoy researching history whenever I have the time 🔍. The only other things I love almost as much as I love programming are Jazz and Anime. Feel free to DM me on any of my socials
 </p>
 <h2>Tools I use</h2>
-   <p align="center">
-     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=angular,flutter,sass,mongodb,js,nodejs,graphql,express,ts,vscode,git,nuxtjs,redis,reactivex,docker&perline=7" />
-     </a>
-   </p>
-<table>
-  <tr>
-    <td valign="center">
-      <h2>Activity</h2>
-      <p>🔭 Currently working on a FinTech application and a Shopify-like clone. </p>
-      <p>🌱 I’m into **FullStack** development and also mastering the **Linux GUI and CLI**.</p>
-      <p>🤖 *Machine learning is the future*</p>
-      <p>🥚 Member of the Coop community.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="center">
-      <p align="center">
-        <img height="200" src="https://github.com/DreadedHippy/DreadedHippy/blob/main/Files/github-pfp-circled.png" alt="Figma design">
-      </p>      
-      <h4 align="center">✨Check out my website at https://aizon.netlify.app ✨</h4>
-    </td>
-  </tr>
-</table>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreadedHippy&theme=vision-friendly-dark" alt="DreadedHippy's most used languages"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DreadedHippy&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&title_color=ff9548"/>
-<img src="https://github-readme-stats.vercel.app/api?username=DreadedHippy&show_icons=true&theme=vision-friendly-dark&show_icons=true&title_color=ff9548&count_private=true"/>
+<p align="center">
+ <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=angular,flutter,sass,mongodb,js,nodejs,graphql,express,ts,vscode,git,nuxtjs,redis,reactivex,docker&perline=7" />
+ </a>
+</p>   
+
+## Activity
+- 🔭 Currently working on a FinTech application and a Shopify-like clone. </p>
+- 🌱 I’m into **FullStack** development and also mastering the **Linux GUI and CLI**.</p>
+- 🤖 *Machine learning is the future*</p>
+- 🥚 Member of the Coop community.</p>
+
+<br>
+
+<h3 align="center">✨Check out my website at https://aizon.netlify.app ✨</h3>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DreadedHippy&theme=vision-friendly-dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=DreadedHippy&theme=vision-friendly-dark&show_icons=true&icon_color=4de6d9&count_private=true&bg_color=70,000000,191919,bd7235,191919,000000,000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DreadedHippy&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&title_color=ff9548&bg_color=70,000000,191919,bd7235,191919,000000,000000"/>

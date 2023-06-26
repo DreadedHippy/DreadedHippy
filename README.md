@@ -29,7 +29,7 @@
 <h2>Tools I use</h2>
 <p align="center">
  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=angular,flutter,sass,mongodb,js,nodejs,graphql,express,ts,vscode,git,nuxtjs,redis,reactivex,docker&perline=7" />
+   <img src="https://skillicons.dev/icons?i=angular,flutter,azure,sass,mongodb,js,nodejs,graphql,express,ts,vscode,git,nuxtjs,githubactions,redis,reactivex,jest,rust,docker&perline=7" />
  </a>
 </p>   
 
